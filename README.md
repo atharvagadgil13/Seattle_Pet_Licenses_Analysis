@@ -1,4 +1,3 @@
-"# Seattle_Pet_Licenses_Analysis" 
 # Seattle Pet Licenses Analysis
 
 A Tableau-based exploratory data analysis of pet licensing records in the City of Seattle, using the official [Seattle Open Data](https://data.seattle.gov/) dataset (as of September 16, 2025).
@@ -16,35 +15,35 @@ The dataset contains **42,659 pet license records** with fields including animal
 ### 1. Species Counts — Text Table
 A simple text table showing the count of licensed pets by species. Dogs lead overwhelmingly with 28,791 licenses.
 
-![Species Counts](Screenshot%202025-10-02%20191650.png)
+![Species Counts](screenshots/Screenshot%202025-10-02%20191650.png)
 
 ---
 
 ### 2. Species Counts — Pie Chart
 A pie chart breaking down the species distribution: Dogs (28,791), Cats (13,841), Goats (24), and Pig (3).
 
-![Species Pie Chart](Screenshot%202025-10-02%20191750.png)
+![Species Pie Chart](screenshots/Screenshot%202025-10-02%20191750.png)
 
 ---
 
 ### 3. Species Counts — Bar Chart
 A horizontal bar chart visualizing species counts, filtered to show Dogs. The bar extends to ~28,791.
 
-![Species Bar Chart](Screenshot%202025-10-02%20191836.png)
+![Species Bar Chart](screenshots/Screenshot%202025-10-02%20191836.png)
 
 ---
 
 ### 4. Species Counts — Tree Map
 A treemap visualization showing the relative proportion of each species. Dogs occupy the largest area, followed by Cats.
 
-![Species Tree Map](Screenshot%202025-10-02%20191904.png)
+![Species Tree Map](screenshots/Screenshot%202025-10-02%20191904.png)
 
 ---
 
 ### 5. Primary Breed Counts — All Species
 A detailed text table listing all 282 unique primary breeds and their counts, sorted in ascending order.
 
-![Primary Breed Counts](Screenshot%202025-10-02%20191929.png)
+![Primary Breed Counts](screenshots/Screenshot%202025-10-02%20191929.png)
 
 ---
 
@@ -56,7 +55,7 @@ A horizontal bar chart of dog breeds sorted by count. Top breeds:
 - German Shepherd: 872
 - Miniature Poodle: 813
 
-![Dog Breeds](Screenshot%202025-10-02%20191952.png)
+![Dog Breeds](screenshots/Screenshot%202025-10-02%20191952.png)
 
 ---
 
@@ -68,35 +67,35 @@ A horizontal bar chart of cat breeds sorted by count. Top breeds:
 - Domestic Longhair: 456
 - Siamese: 202
 
-![Cat Breeds](Screenshot%202025-10-02%20192019.png)
+![Cat Breeds](screenshots/Screenshot%202025-10-02%20192019.png)
 
 ---
 
 ### 8. Top 15 Pet Names
 A bar chart of the 15 most popular pet names across all species. **Luna** takes the top spot, followed by Charlie, Lucy, Daisy, and Bella.
 
-![Top 15 Pet Names](Screenshot%202025-10-02%20192043.png)
+![Top 15 Pet Names](screenshots/Screenshot%202025-10-02%20192043.png)
 
 ---
 
 ### 9. Licenses Issued by Week — All Animals
 A line chart showing the count of licenses issued per week throughout the year. Licensing activity increases significantly in the second half of the year (weeks 30–50), likely tied to adoption and renewal seasons.
 
-![Licenses by Week](Screenshot%202025-10-02%20192100.png)
+![Licenses by Week](screenshots/Screenshot%202025-10-02%20192100.png)
 
 ---
 
 ### 10. Geographic Map — Seattle Pets by ZIP Code
 A bubble map of Seattle showing pet license density by ZIP code. Larger bubbles indicate more licenses. North Seattle neighborhoods (98103, 98115, 98117) have the highest concentrations, with over 2,000 licenses each.
 
-![Map](Screenshot%202025-10-02%20192133.png)
+![Map](screenshots/Screenshot%202025-10-02%20192133.png)
 
 ---
 
 ### 11. Final Dashboard
 A combined dashboard featuring the tree map, weekly trend line, geographic map, and breed count tables for a comprehensive overview.
 
-![Final Dashboard](Screenshot%202025-10-02%20192201.png)
+![Final Dashboard](screenshots/Screenshot%202025-10-02%20192201.png)
 
 ---
 
